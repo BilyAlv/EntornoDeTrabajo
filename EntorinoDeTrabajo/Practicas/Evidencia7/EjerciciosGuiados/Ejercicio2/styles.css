@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+img {
+  margin: 10px;
+}
+
+.total {
+  border: black 2px solid;
+  padding: 10px;
+  font-size: 300%;
+}

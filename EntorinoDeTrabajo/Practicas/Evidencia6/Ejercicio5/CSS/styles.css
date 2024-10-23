@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.form-select {
+  width: 50%;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+#tablaResultado {
+  font-size: 18px;
+}

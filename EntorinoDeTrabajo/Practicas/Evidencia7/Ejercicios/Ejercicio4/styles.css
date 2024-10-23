@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.cartas {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.carta {
+  width: 150px;
+  height: auto;
+  margin: 0 10px;
+}
+
+h2 {
+  color: black;
+  margin-top: 20px;
+}
