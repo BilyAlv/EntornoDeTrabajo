@@ -617,7 +617,7 @@
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">
                     <a
-                      href="Proyectos/ProyectoFinal/pages/index.php"
+                      href="Proyectos/ProyectoFinal/index.php"
                       class="text-decoration-none"
                       ><i class="fas fa-file-code text-success"></i> Ejercicio
                       2</a
