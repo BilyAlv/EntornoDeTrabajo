@@ -1,0 +1,45 @@
+.comentario {
+  transition: transform 0.2s ease;
+  border-left: 4px solid #28a745;
+}
+
+.comentario:hover {
+  transform: translateX(5px);
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-primary:hover {
+  background-color: #218838;
+  border-color: #218838;
+}
+
+#musgo {
+  background-color: #218838;
+}
+
+.close-btn {
+  background: transparent;
+  border: none;
+  color: #cdcaca;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.close-btn:hover {
+  color: #a71d2a;
+}
